@@ -18,6 +18,12 @@
   },
   "homepage": "https://github.com/KirstenS13/read-tracker-log-viewer-BE#readme",
   "devDependencies": {
+    "dotenv": "^16.0.0",
     "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "express": "^4.17.3",
+    "knex": "^1.0.4",
+    "sqlite3": "^5.0.2"
   }
 }
