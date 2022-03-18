@@ -1,0 +1,23 @@
+{
+  "name": "read-tracker-log-viewer-be",
+  "version": "1.0.0",
+  "description": "This is the backend for my read-tracker-log-viewer repo.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KirstenS13/read-tracker-log-viewer-BE.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KirstenS13/read-tracker-log-viewer-BE/issues"
+  },
+  "homepage": "https://github.com/KirstenS13/read-tracker-log-viewer-BE#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
